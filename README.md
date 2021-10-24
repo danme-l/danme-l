@@ -1,1 +1,1 @@
-I'm Dan, a graduate student at Algonquin College taking Business Intelligence, with a big interest in Data Science and Machine Learning.
+I'm Dan, a Business Intelligence Specialist at the Canada Revenue Agency's Business Intelligence, Reasearch and Analytics Division (BIRAD). I'm currently super interested in Data Science and Machine Learning, as well as dabbling in some Web Development through The Odin Project.
