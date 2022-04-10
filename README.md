@@ -1,1 +1,1 @@
-I'm Dan, a Business Intelligence Specialist at the Canada Revenue Agency's Business Intelligence, Reasearch and Analytics Division (BIRAD). I'm interested in DevOps, Data Engineering, Data Science and Machine Learning, and dabbling in some web development.
+I'm Dan, a Data Scientist at the Canada Revenue Agency's Business Intelligence, Reasearch and Analytics Division (BIRAD). I'm interested in DevOps, Data Engineering, Data Science and Machine Learning, and dabbling in some web development.
