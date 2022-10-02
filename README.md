@@ -54,6 +54,5 @@ I am a Data Scientist and (aspiring/hobbyist) Full Stack Dev, currently working 
 <details> 
     <summary> GitHub Stats</summary>
 
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=danme-l)](https://git.io/streak-stats) 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danme-l&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://streak-stats.demolab.com/?user=danme-l" />
 </details>
