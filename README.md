@@ -51,8 +51,9 @@ I am a Data Scientist and (aspiring/hobbyist) Full Stack Dev, currently working 
 
   </tr>
 </table>
-<details> 
-    <summary> GitHub Stats</summary>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-    <img src="https://streak-stats.demolab.com/?user=danme-l" />
+  <img align="left" alt="Try's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danme-l&show_icons=true&hide_border=true&theme=vue-dark" />
+
 </details>
