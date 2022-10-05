@@ -23,6 +23,7 @@ I am a Data Scientist and (aspiring/hobbyist) Full Stack Dev, currently working 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"  />&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"  />&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"  />&nbsp;
+        <img src="https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png" width="40" heigh="40" />&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg" width="40" height="40"/>&nbsp;
     
   </tr>
@@ -35,8 +36,8 @@ I am a Data Scientist and (aspiring/hobbyist) Full Stack Dev, currently working 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" width="40" height="40"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="40" height="40"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>&nbsp;
 
   </tr>
   <tr>
