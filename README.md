@@ -5,7 +5,7 @@
 
 <h2> About </h2>
 
-I am a Data Scientist and (aspiring/hobbyist) Full Stack Dev, currently working in the Canada Revenue Agency's Business Intelligence, Research and Analytics Division (BIRAD).
+I am a Data Scientist and (aspiring/hobbyist) Full Stack Dev, currently working in the Canada Revenue Agency's Business Intelligence, Research and Analytics Division (BIRAD) - Applied Predictive Analytics Section (APAS).
 
 
 ---
