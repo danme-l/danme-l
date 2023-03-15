@@ -7,6 +7,7 @@
 
 I am a Data Scientist and (aspiring/hobbyist) Full Stack Dev, currently working in the Canada Revenue Agency's Business Intelligence, Research and Analytics Division (BIRAD) - Applied Predictive Analytics Section (APAS).
 
+I now have a personal website! Find it [here](https://dmeleras.onrender.com/). There's a database, Flask back end, and React Front end deployed to [Render](https://render.com/). More to come!
 
 ---
 
