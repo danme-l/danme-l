@@ -5,7 +5,7 @@
 
 <h2> About </h2>
 
-I am a Data Scientist and (aspiring/hobbyist) Full Stack Dev, currently working in the Canada Revenue Agency's Business Intelligence, Research and Analytics Division (BIRAD) - Applied Predictive Analytics Section (APAS).
+I am a Data Scientist and (aspiring/hobbyist) Full Stack Dev, currently working at NATO's Science and Technology Organization.
 
 I now have a personal website! Find it [here](https://danmeleras.xyz/). There's a Postgres database, Flask back end, and React front end all deployed to [Render](https://render.com/). More to come!
 
